@@ -76,8 +76,8 @@ The script generates all possible 5-digit numeric passwords and attempts to decr
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/pdf-password-cracker.git
-    cd pdf-password-cracker
+    git clone https://github.com/dev-tarunsingh/Python.git
+    cd pyhton
     ```
 
 2. **Install the required library**:
@@ -94,5 +94,3 @@ The script generates all possible 5-digit numeric passwords and attempts to decr
     ```sh
     python main.py
     ```
-
-## 📂 Project Structure
